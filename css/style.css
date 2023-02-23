@@ -106,13 +106,13 @@ color: #ff4d29;
     background-color: #d63e20;
 }
 .slide1 {
-    background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)), url(../images/lantern.jpg);
+    background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)), url(../images/umberto-jXd2FSvcRr8-unsplash.jpg);
 }
 .slide2 {
-    background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)), url(../images/wood.jpg);
+    background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)), url(../images/terry-vlisidis-RflgrtzU3Cw-unsplash.jpg);
 }
 .slide3 {
-    background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)), url(../images/disk.jpg);
+    background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)), url(../images/fotis-fotopoulos-LJ9KY8pIH3E-unsplash.jpg);
 }
 .hero-slider h1{
     font-weight: 700 !important;
